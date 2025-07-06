@@ -28,12 +28,11 @@ Welcome to my personal developer portfolio! This project showcases my skills in 
 
 ## 🗂️ Project Structure
 
-my-portfolio/
-├── index.html
-├── images/
-│ └── me.jfif
-└── README.md
-
+- my-portfolio/
+- ├── index.html
+- ├── images/
+- │ └── me.jfif
+- └── README.md
 
 ## 📦 Deployment
 
