@@ -43,7 +43,7 @@ This project is deployed using [Vercel](https://vercel.com/), a serverless hosti
 If you'd like to reach out or collaborate:
 
 - 📧 Email: magafrancis1999@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/francismaga]([https://linkedin.com](https://www.linkedin.com/in/francis-maga-533b9a31b/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/francis-maga-533b9a31b/](https://www.linkedin.com/in/francis-maga-533b9a31b/)
 - 🐙 GitHub: [github.com/craneMD](https://github.com/craneMD)
 
 ---
